@@ -17,6 +17,7 @@ keyed_groups:
     separator: ''
   - key: tags['server']
     separator: ''
+    
 hostnames:
   - "private-ip-address"
 
